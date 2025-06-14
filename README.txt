@@ -26,5 +26,5 @@ IV- 📂 Files Included:
 
 V- 📩 Author:
 - Aaron Jillundra
-- [LinkedIn Profile Link]
-- [GitHub Profile Link]
+- [LinkedIn - https://www.linkedin.com/in/aaron-jillundra-a3ab3a224/ ]
+- [GitHub - https://github.com/Aaronjill]
